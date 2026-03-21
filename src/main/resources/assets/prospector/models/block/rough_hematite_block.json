@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "prospector:block/crude_hematite_block"
+    "all": "prospector:block/rough_hematite_block"
   }
 }

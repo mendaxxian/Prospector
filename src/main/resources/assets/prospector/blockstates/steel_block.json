@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "prospector:block/steel_block"
+    }
+  }
+}

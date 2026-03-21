@@ -12,7 +12,7 @@ public class ModItems {
     public static final DeferredItem<Item> STEEL_INGOT = ITEMS.register("steel_ingot",
             () -> new Item(new Item.Properties()));
 
-    public static final DeferredItem<Item> CRUDE_HEMATITE = ITEMS.register("crude_hematite",
+    public static final DeferredItem<Item> ROUGH_HEMATITE = ITEMS.register("rough_hematite",
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> HEMATITE = ITEMS.register("hematite",
             () -> new Item(new Item.Properties()));
