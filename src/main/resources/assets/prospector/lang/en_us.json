@@ -1,8 +1,8 @@
 {
-  "itemGroup.prospector": "Example Mod Tab",
-  "block.prospector.example_block": "Example Block",
-  "item.prospector.example_item": "Example Item",
-
+  "itemGroup.prospector": "Prospector",
+  "block.prospector.foundry": "Foundry",
+  "block.prospector.steel_block": "Block of Steel",
+  "item.prospector.steel_ingot": "Steel Ingot",
   "prospector.configuration.title": "Prospector Configs",
   "prospector.configuration.section.prospector.common.toml": "Prospector Configs",
   "prospector.configuration.section.prospector.common.toml.title": "Prospector Configs",
